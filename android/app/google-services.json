@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "951725653031",
+    "firebase_url": "https://lookbook-470dc-default-rtdb.firebaseio.com",
+    "project_id": "lookbook-470dc",
+    "storage_bucket": "lookbook-470dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951725653031:android:7c7cb434c5c7af6c6b6202",
+        "android_client_info": {
+          "package_name": "com.example.my_lookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951725653031-33bdva4jquj824tqp8uivtnrg8f6frko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_lookbook",
+            "certificate_hash": "5550a82591a8f208140d0696cf6e52e3cb144383"
+          }
+        },
+        {
+          "client_id": "951725653031-cm7vl819gqkv64hjvrrkefhhf53s9sb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAW8a-YSJxCz-nL8wWaTG7Gxf7N-I9NN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951725653031-cm7vl819gqkv64hjvrrkefhhf53s9sb5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951725653031-hbgmm9unp12ehrfn4e1kapjaur5npfpf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.myLookbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
