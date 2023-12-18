@@ -1,1 +1,3 @@
 # LookBook
+
+Flutter application
