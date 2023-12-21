@@ -1,3 +1,3 @@
 # LookBook
 
-Flutter application
+Flutter application for closet organization
